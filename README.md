@@ -3,9 +3,13 @@ Pour cette étude, la base de données d’origine contient 50,000 observations,
 
 ## 
 Modèle : Arbre de classification
+##
 Modèle : La méthode d’ensemble 
+##
          Gradient boosting; Forêt aléatoire
+##
 Modèle : Réseaux de neurones
+##
 Seront utilisés
 
 ##
